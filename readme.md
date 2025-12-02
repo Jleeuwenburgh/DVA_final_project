@@ -7,3 +7,5 @@ In order to make sure that we all have access to this git repository:
 
 ## Names
 * Joep
+
+* Clara
